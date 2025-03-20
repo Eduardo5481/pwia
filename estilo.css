@@ -8,3 +8,47 @@ html, body {
     height: 0;
     background-color: #cccccc;
 }
+.card{
+    width:268px ;
+    height: 168px; 
+    background-color: #ffffffff;
+}
+    .img-card{
+        
+    width:268px ;
+    height: 168px;
+    margin-top:50px;
+    }
+
+
+.descricao{
+    font-size: 14px;
+    font-family: impact ;
+    font-weight: border;
+    margin-bottom: 50px;
+}
+.preço{
+    font-size: 25px;
+    font-family: impact;
+    color: #ff6500;
+}
+.pagamento{
+    color: #6666;
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 10px 5px;
+    font-size: 11px;
+}
+
+.botao-card{
+    background-color: #FF0000;
+    color: #ffffffff;
+    font-weight: bold;
+    width: 100%;
+    height: 35px;
+    font-size: 15px;
+    text-align: center;
+    border: 0;
+}
+.botao-comprar{
+    padding: 10px 5px;
+}
