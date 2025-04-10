@@ -75,3 +75,7 @@ background-color: #999999;
     font-weight: bold;
 
 }
+ main{
+    display: flex;
+    flex-wrap: wrap;
+}
