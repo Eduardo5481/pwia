@@ -1,7 +1,7 @@
 body, html{
     margin:0;
     padding:0;
-    background-color: #6e6e6e6e;
+    background-color: #ffffff6e;
     height: 100%;
 }
 
@@ -18,19 +18,21 @@ body, html{
                         "footer footer";
 }
 header{
-    background-color: #ff6500;
+    background-color: #ffffff;
+    padding: 20px;
+    text-align: center;
     grid-area: header;
     
 }
 main{
-    background-color:#0065ff;
+    background-color:#ffffff;
     grid-area: main;
 }
 aside{
-    background-color: #ff65ff;
+    background-color: #ffffff;
     grid-area: sidebar;
 }
 footer{
-    background-color: #006500;
+    background-color: #ffffff;
     grid-area: footer
 }
